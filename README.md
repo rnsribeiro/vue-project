@@ -2,7 +2,7 @@
 
 ## Movie tutorial
 
-[![Masterclass Vue.JS 2024](https://www.youtube.com/watch?v=AdApfFxO3Gs/0.jpg)](https://www.youtube.com/watch?v=AdApfFxO3Gs)
+[![Masterclass Vue.JS 2024](https://img.youtube.com/vi/AdApfFxO3Gs/0.jpg)](https://www.youtube.com/watch?v=AdApfFxO3Gs)
 
 This template should help get you started developing with Vue 3 in Vite.
 
